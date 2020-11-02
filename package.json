@@ -1,0 +1,27 @@
+{
+  "name": "randymeetsthebanhammer",
+  "version": "1.2.3",
+  "description": "RandyBigSmellyBot Built By: Hyperz#0001 (704094587836301392)",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itz-hyperz/RandyBigSmellyBot.git"
+  },
+  "keywords": [
+    "Hyperz",
+    "RandyBigSmellyBot"
+  ],
+  "author": "Hyperz#0001 (704094587836301392)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itz-hyperz/RandyBigSmellyBot/issues"
+  },
+  "homepage": "https://github.com/itz-hyperz/RandyBigSmellyBot#readme",
+  "dependencies": {
+    "discord.js": "^12.4.1",
+    "json": "^10.0.0"
+  }
+}
