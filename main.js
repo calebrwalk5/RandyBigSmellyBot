@@ -21,13 +21,14 @@ client.on('message', message => {
 });
 
 client.on('message', message => {
-  if(message.content === 'ban randy')
+  if(message.content === 'ban randy') {
   message.channel.send('getrandyoutofhererightnowcommand <@743175243593416744>')
   message.channel.send('getrandyoutofhererightnowcommand <@765408075061919755>')
   message.channel.send('getrandyoutofhererightnowcommand <@719880686881734667>')
   message.channel.send('getrandyoutofhererightnowcommand <@713625510089064580>')
   message.channel.send('getrandyoutofhererightnowcommand <@765302140914237450>')
   message.channel.send('The commands have been entered, I cannot confirm or deny that they worked... (check the servers list of banned members...)')
+  }
 });
 
 client.on('message', message => {
