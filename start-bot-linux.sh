@@ -6,22 +6,5 @@ if test "`whoami`" != "root" ; then
 	exit
 fi
 
-PS3='Please enter your choice: '
-options=("Install" "Run" "Quit")
-select opt in "${options[@]}"
-do
-    case $opt in
-        "Install")
-            sudo apt install npm
-            npm install discord.js
-            ;;
-        "Run")
-            node main.js
-            ;;
-        "Quit")
-            break
-            ;;
-        *) echo "invalid option $REPLY";;
-    esac
-done
+npm install discord.js
 node main.js
