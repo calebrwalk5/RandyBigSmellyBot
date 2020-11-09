@@ -6,8 +6,9 @@ const fs = require('fs');
 const Discord = require('discord.js');
 const ws = require('ws');
 const { error } = require('console');
-
 const client = new Discord.Client();
+
+
 
 // Here is where you can set the bots status!
 client.on('ready', () => {
