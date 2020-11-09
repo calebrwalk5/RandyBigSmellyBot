@@ -20,7 +20,8 @@ How-To-Setup (Windows)
 
 How-To-Setup (linux)
 
-- 
+- sudo su
+- ./start-bot-linux.sh
 
 Credits:
 - Programming: Hyperz#0001
