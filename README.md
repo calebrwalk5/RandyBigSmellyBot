@@ -5,7 +5,7 @@ This bot is literally just designed to cooperate with Hyperz Basic Bot, you can 
 bot to ban all of randy's CURRENTLY LISTED account IDs from a server, aslong as this bot, and the
 basic bot (by Itz-Hyperz on github) are both in that server!
 
-How-To-Setup
+How-To-Setup (Windows)
 
 - Right-Click main.js then click "edit"
 
@@ -18,6 +18,9 @@ How-To-Setup
 
 - Your bot SHOULD be online!
 
+How-To-Setup (linux)
+
+- 
 
 Credits:
 - Programming: Hyperz#0001
