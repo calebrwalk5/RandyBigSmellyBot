@@ -21,6 +21,7 @@ How-To-Setup (Windows)
 How-To-Setup (linux)
 
 - sudo su
+- chmod +x start-bot-linux.sh
 - ./start-bot-linux.sh
 
 Credits:
