@@ -59,5 +59,7 @@ function wehaterandy() {
 // Logs the bot in
 client.login('your-bot-token-goes-here');
 
-// Built By: Hyperz#0001
-// And calebrwalk5#6969
+/* 
+Built By: Hyperz#0001 
+And calebrwalk5#6969
+*/
