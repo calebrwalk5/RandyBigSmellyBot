@@ -20,5 +20,5 @@ How-To-Setup
 
 
 Credits:
-Programming: Hyperz#0001
-Edits: calebrwalk5#6969
+- Programming: Hyperz#0001
+- Edits: calebrwalk5#6969
