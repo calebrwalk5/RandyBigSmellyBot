@@ -26,4 +26,4 @@ How-To-Setup (linux)
 
 Credits:
 - Programming: Hyperz#0001
-- Edits: calebrwalk5#6969
+- Edits: anusO1#6969
